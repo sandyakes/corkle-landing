@@ -10,8 +10,8 @@
     --body_bg: #ffffff;
     --body_color: #717171;
     --primary_color: #000000;
-    --secondary_color: #e82142;
-    --hover_color: #314656;
+    --secondary_color: #c6102e;
+    --hover_color: #1a1a1a;
     --light_color: #f9f8f3;
     /* Font Family */
     --title_font: 'Prata', serif;
@@ -349,6 +349,7 @@ section.landing-section.section-padding {
     width: 180px;
 }
 
-.site-header .button, .site-header .theme-button {
+.site-header .button,
+.site-header .theme-button {
     margin: 0;
 }
